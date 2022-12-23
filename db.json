@@ -1,0 +1,159 @@
+{
+  "transactions": [
+    {
+      "name": "month-1",
+      "type": "income",
+      "amount": 15000,
+      "id": 1
+    },
+    {
+      "name": "month-1",
+      "type": "expense",
+      "amount": 12000,
+      "id": 2
+    },
+    {
+      "name": "month-2",
+      "type": "income",
+      "amount": 16000,
+      "id": 3
+    },
+    {
+      "name": "month-2",
+      "type": "expense",
+      "amount": 13000,
+      "id": 4
+    },
+    {
+      "name": "month-3",
+      "type": "income",
+      "amount": 17000,
+      "id": 5
+    },
+    {
+      "name": "month-3",
+      "type": "expense",
+      "amount": 14000,
+      "id": 6
+    },
+    {
+      "name": "month-4",
+      "type": "income",
+      "amount": 18000,
+      "id": 7
+    },
+    {
+      "name": "month-4",
+      "type": "expense",
+      "amount": 16000,
+      "id": 8
+    },
+    {
+      "name": "month-5",
+      "type": "income",
+      "amount": 18000,
+      "id": 9
+    },
+    {
+      "name": "month-5",
+      "type": "expense",
+      "amount": 16000,
+      "id": 10
+    }
+  ],
+  "balances": [
+    {
+      "type": "income",
+      "amount": 15000,
+      "id": 1
+    },
+    {
+      "type": "expense",
+      "amount": 12000,
+      "id": 2
+    },
+    {
+      "type": "income",
+      "amount": 16000,
+      "id": 3
+    },
+    {
+      "type": "expense",
+      "amount": 13000,
+      "id": 4
+    },
+    {
+      "type": "income",
+      "amount": 17000,
+      "id": 5
+    },
+    {
+      "type": "expense",
+      "amount": 14000,
+      "id": 6
+    },
+    {
+      "type": "income",
+      "amount": 18000,
+      "id": 7
+    },
+    {
+      "type": "expense",
+      "amount": 16000,
+      "id": 8
+    },
+    {
+      "type": "income",
+      "amount": 18000,
+      "id": 9
+    },
+    {
+      "type": "expense",
+      "amount": 16000,
+      "id": 10
+    }
+  ],
+  "todos": [
+    {
+      "id": 3,
+      "text": "Learn React JS",
+      "completed": true,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux Basics",
+      "completed": false,
+      "id": 4,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux fundamentals test",
+      "completed": false,
+      "id": 5,
+      "color": "red"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "link": "https://i.ibb.co/tcvN3Gq/todo-application-rtk-Edited.png",
+      "link2": "https://lwsassignment-8.netlify.app/"
+    },
+    {
+      "id": 2,
+
+      "link": "https://i.ibb.co/XYqKG64/video-gallery-toolkit.webp",
+      "link2": "https://lws-assignment-6.netlify.app/"
+    },
+    {
+      "id": 3,
+      "link": "https://i.ibb.co/t8WxLsG/project-manager.webp",
+      "link2": "https://lws-final-tsk.netlify.app/"
+    },
+    {
+      "id": 4,
+      "link": "https://i.ibb.co/Lz3MbKJ/chat-application.webp",
+      "link2": "https://lws-assignment-9.netlify.app/"
+    }
+  ]
+}
